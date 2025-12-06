@@ -89,5 +89,5 @@
     }
 
     console.log("🎉 Selesai! Semua gambar berhasil diunduh.");
-})();
+  })();
   ```
